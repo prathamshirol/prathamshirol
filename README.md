@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hi 👋, I'm Pratham Shirol
+
  [![HitCount](https://hits.dwyl.com/prathamshirol/prathamshirol.svg?style=flat-square&show=unique)](http://hits.dwyl.com/prathamshirol/prathamshirol)
 
 
-
-I'm Pratham, a final-year Computer Science undergrad specializing in AI.
+CS & AI student with a passion for deep learning and machine learning. Always exploring and innovating in the world of artificial intelligence and coding!
 
 - 🔭 Working on machine learning and deep learning projects and exploring artificial intelligence.
 - 🌱 Always learning and diving into new AI trends.
