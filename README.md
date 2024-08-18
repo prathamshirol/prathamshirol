@@ -1,5 +1,5 @@
 ## Hi there 👋
-Profile Hits [![HitCount](https://hits.dwyl.com/prathamshirol/prathamshirol.svg?style=flat-square&show=unique)](http://hits.dwyl.com/prathamshirol/prathamshirol)
+ [![HitCount](https://hits.dwyl.com/prathamshirol/prathamshirol.svg?style=flat-square&show=unique)](http://hits.dwyl.com/prathamshirol/prathamshirol)
 
 
 
