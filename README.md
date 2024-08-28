@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Pratham Shirol
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
 
 
 CS & AI student with a passion for deep learning and machine learning. Always exploring and innovating in the world of artificial intelligence and coding!
